@@ -1,0 +1,6 @@
+{
+  "name": "Kravior LearnAI — Multimodal Personalized Tutoring Platform",
+  "description": "Evidence-grounded multimodal AI study companion and adaptive tutoring platform with Bayesian knowledge tracing, source citations, and verified assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
